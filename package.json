@@ -1,0 +1,25 @@
+{
+  "name": "client-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^4.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdanial07/client-server-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdanial07/client-server-example/issues"
+  },
+  "homepage": "https://github.com/mdanial07/client-server-example#readme"
+}
